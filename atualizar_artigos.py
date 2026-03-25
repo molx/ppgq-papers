@@ -18,7 +18,6 @@ def formatar_referencia(obra):
             autores_lista.append(nome)
     
     texto_autores = "; ".join(autores_lista)
-    titulo = obra.get('title', 'Sem titulo')
     ano = str(obra.get('publication_year', ''))
     
     revista = ""
@@ -30,9 +29,7 @@ def formatar_referencia(obra):
     volume = biblio.get('volume', '')
     fasciculo = biblio.get('issue', '')
     
-    doi = obra.get('doi', '')
-    
-    referencia = f"{texto_autores}. {titulo}."
+    referencia = f"{texto_autores}."
     if revista:
         referencia += f" {revista},"
     if volume:
@@ -41,8 +38,6 @@ def formatar_referencia(obra):
         referencia += f" n. {fasciculo},"
     if ano:
         referencia += f" {ano}."
-    if doi:
-        referencia += f" DOI: {doi}"
         
     return referencia
 
