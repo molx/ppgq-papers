@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+	<channel>
+		<title>Últimos Artigos Publicados</title>
+		<link>https://github.com</link>
+		<description>Feed automatizado de artigos científicos</description>
+		<item>
+			<title>Revisiting the Ugi multicomponent reaction mechanism and application in the synthesis of fluorescent heterocyclics</title>
+			<link>https://doi.org/10.1016/bs.aihch.2025.10.006</link>
+			<pubDate>2025-11-21</pubDate>
+		</item>
+		<item>
+			<title>Bioorthogonal Cyclization Reactions for the Synthesis of Cytotoxic Drugs in Cancer Treatment</title>
+			<link>https://doi.org/10.1021/acsomega.5c07644</link>
+			<pubDate>2025-11-20</pubDate>
+		</item>
+		<item>
+			<title>Can any Basic/Nucleophile Quaternary Salt Promote the Carbonatation of Epoxides? A Review</title>
+			<link>https://doi.org/10.1021/acsomega.5c03990</link>
+			<pubDate>2025-07-24</pubDate>
+		</item>
+		<item>
+			<title>A Review on Luminescent Benzoselenadiazole Derivatives: Comparison with Benzothiadiazoles, Properties, Applications, and Trends</title>
+			<link>https://doi.org/10.1002/asia.202500004</link>
+			<pubDate>2025-06-19</pubDate>
+		</item>
+		<item>
+			<title>Solvents’ and Reagents’ Noninnocent Roles in the Groebke–Blackburn–Bienaymé (GBB) Multicomponent Reaction: Experimental and Computational Evidence</title>
+			<link>https://doi.org/10.1021/acsorginorgau.5c00049</link>
+			<pubDate>2025-06-12</pubDate>
+		</item>
+		<item>
+			<title>Development and Evaluation of an Electromechanical Flowmeter for Volumetric Flow Measurement: Applications in Wastewater-based Epidemiology and Microplastic Monitoring in Aquatic Environments</title>
+			<link>https://doi.org/10.17807/orbital.v17i3.22493</link>
+			<pubDate>2025-05-28</pubDate>
+		</item>
+		<item>
+			<title>Integrating Machine Learning and SHAP Analysis to Advance the Rational Design of Benzothiadiazole Derivatives with Tailored Photophysical Properties</title>
+			<link>https://doi.org/10.1021/acs.jcim.4c02414</link>
+			<pubDate>2025-04-29</pubDate>
+		</item>
+		<item>
+			<title>Flavanone‐enabled CuAAC Reaction: Noninnocent Reagents Driving a Mononuclear Mechanism Over the Dinuclear Paradigm</title>
+			<link>https://doi.org/10.1002/chem.202500121</link>
+			<pubDate>2025-02-17</pubDate>
+		</item>
+		<item>
+			<title>A compact flow-batch analyzer equipped with mini piezoelectric pumps and image-based volume control</title>
+			<link>https://doi.org/10.1039/d4ay01800a</link>
+			<pubDate>2025-01-01</pubDate>
+		</item>
+		<item>
+			<title>A paper-based analytical device for rapid colorimetric detection of aluminium in aerosol antiperspirants</title>
+			<link>https://doi.org/10.1039/d5ay00229j</link>
+			<pubDate>2025-01-01</pubDate>
+		</item>
+		<item>
+			<title>Forget About the Journal Impact Factor and Other Scientometric Indicators</title>
+			<link>https://doi.org/10.21577/0103-5053.20250008</link>
+			<pubDate>2025-01-01</pubDate>
+		</item>
+		<item>
+			<title>Fewer Papers, Better Science</title>
+			<link>https://doi.org/10.21577/0103-5053.20250078</link>
+			<pubDate>2025-01-01</pubDate>
+		</item>
+		<item>
+			<title>What Is the Value of the Journal of the Brazilian Chemical Society (JBCS)?</title>
+			<link>https://doi.org/10.21577/0103-5053.20240217</link>
+			<pubDate>2024-12-09</pubDate>
+		</item>
+		<item>
+			<title>Basic Concepts of Ionic Liquids and Chirality</title>
+			<link>https://doi.org/10.2174/9789815305784124010004</link>
+			<pubDate>2024-11-07</pubDate>
+		</item>
+		<item>
+			<title>A modular flow process intensification towards lipid peptoids nano assembly formation</title>
+			<link>https://doi.org/10.1007/s41981-024-00338-9</link>
+			<pubDate>2024-10-08</pubDate>
+		</item>
+		<item>
+			<title>Intragenic antimicrobial peptide Hs02 toxicity against leukemia cell lines is associated with increased expression of select pyroptotic components</title>
+			<link>https://doi.org/10.1016/j.tiv.2024.105945</link>
+			<pubDate>2024-09-28</pubDate>
+		</item>
+		<item>
+			<title>Visible‐Light‐Enabled Dual‐Catalysis Approach to Stereoselective [2+2] Cycloaddition of Erlenmeyer‐Plöchl Azlactones</title>
+			<link>https://doi.org/10.1002/ajoc.202400271</link>
+			<pubDate>2024-08-16</pubDate>
+		</item>
+		<item>
+			<title>Mapping the Brazilian Scientific Diaspora: Migration Patterns of PhDs in Global Mobility</title>
+			<link>https://doi.org/10.1101/2024.04.22.590567</link>
+			<pubDate>2024-04-22</pubDate>
+		</item>
+		<item>
+			<title>Medicinal Chemistry in Times of Scientific Obscurantism and Denialism: Do We Have a Future?</title>
+			<link>https://doi.org/10.21577/0103-5053.20240147</link>
+			<pubDate>2024-01-01</pubDate>
+		</item>
+		<item>
+			<title>DESENVOLVIMENTO DE REAÇÕES MULTICOMPONENTES CATALISADAS COM DERIVADOS DE LÍQUIDOS IÔNICOS PARA SÍNTESE DE SISTEMAS HETEROCÍCLICOS COM APLICAÇÃO BIOLÓGICA</title>
+			<link>https://doi.org/10.37885/240115450</link>
+			<pubDate>2024-01-01</pubDate>
+		</item>
+	</channel>
+</rss>
