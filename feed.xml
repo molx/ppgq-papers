@@ -1,108 +1,128 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
-	<channel>
-		<title>Últimos Artigos Publicados</title>
-		<link>https://github.com</link>
-		<description>Feed automatizado de artigos científicos</description>
-		<item>
-			<title>Revisiting the Ugi multicomponent reaction mechanism and application in the synthesis of fluorescent heterocyclics</title>
-			<link>https://doi.org/10.1016/bs.aihch.2025.10.006</link>
-			<pubDate>2025-11-21</pubDate>
-		</item>
-		<item>
-			<title>Bioorthogonal Cyclization Reactions for the Synthesis of Cytotoxic Drugs in Cancer Treatment</title>
-			<link>https://doi.org/10.1021/acsomega.5c07644</link>
-			<pubDate>2025-11-20</pubDate>
-		</item>
-		<item>
-			<title>Can any Basic/Nucleophile Quaternary Salt Promote the Carbonatation of Epoxides? A Review</title>
-			<link>https://doi.org/10.1021/acsomega.5c03990</link>
-			<pubDate>2025-07-24</pubDate>
-		</item>
-		<item>
-			<title>A Review on Luminescent Benzoselenadiazole Derivatives: Comparison with Benzothiadiazoles, Properties, Applications, and Trends</title>
-			<link>https://doi.org/10.1002/asia.202500004</link>
-			<pubDate>2025-06-19</pubDate>
-		</item>
-		<item>
-			<title>Solvents’ and Reagents’ Noninnocent Roles in the Groebke–Blackburn–Bienaymé (GBB) Multicomponent Reaction: Experimental and Computational Evidence</title>
-			<link>https://doi.org/10.1021/acsorginorgau.5c00049</link>
-			<pubDate>2025-06-12</pubDate>
-		</item>
-		<item>
-			<title>Development and Evaluation of an Electromechanical Flowmeter for Volumetric Flow Measurement: Applications in Wastewater-based Epidemiology and Microplastic Monitoring in Aquatic Environments</title>
-			<link>https://doi.org/10.17807/orbital.v17i3.22493</link>
-			<pubDate>2025-05-28</pubDate>
-		</item>
-		<item>
-			<title>Integrating Machine Learning and SHAP Analysis to Advance the Rational Design of Benzothiadiazole Derivatives with Tailored Photophysical Properties</title>
-			<link>https://doi.org/10.1021/acs.jcim.4c02414</link>
-			<pubDate>2025-04-29</pubDate>
-		</item>
-		<item>
-			<title>Flavanone‐enabled CuAAC Reaction: Noninnocent Reagents Driving a Mononuclear Mechanism Over the Dinuclear Paradigm</title>
-			<link>https://doi.org/10.1002/chem.202500121</link>
-			<pubDate>2025-02-17</pubDate>
-		</item>
-		<item>
-			<title>A compact flow-batch analyzer equipped with mini piezoelectric pumps and image-based volume control</title>
-			<link>https://doi.org/10.1039/d4ay01800a</link>
-			<pubDate>2025-01-01</pubDate>
-		</item>
-		<item>
-			<title>A paper-based analytical device for rapid colorimetric detection of aluminium in aerosol antiperspirants</title>
-			<link>https://doi.org/10.1039/d5ay00229j</link>
-			<pubDate>2025-01-01</pubDate>
-		</item>
-		<item>
-			<title>Forget About the Journal Impact Factor and Other Scientometric Indicators</title>
-			<link>https://doi.org/10.21577/0103-5053.20250008</link>
-			<pubDate>2025-01-01</pubDate>
-		</item>
-		<item>
-			<title>Fewer Papers, Better Science</title>
-			<link>https://doi.org/10.21577/0103-5053.20250078</link>
-			<pubDate>2025-01-01</pubDate>
-		</item>
-		<item>
-			<title>What Is the Value of the Journal of the Brazilian Chemical Society (JBCS)?</title>
-			<link>https://doi.org/10.21577/0103-5053.20240217</link>
-			<pubDate>2024-12-09</pubDate>
-		</item>
-		<item>
-			<title>Basic Concepts of Ionic Liquids and Chirality</title>
-			<link>https://doi.org/10.2174/9789815305784124010004</link>
-			<pubDate>2024-11-07</pubDate>
-		</item>
-		<item>
-			<title>A modular flow process intensification towards lipid peptoids nano assembly formation</title>
-			<link>https://doi.org/10.1007/s41981-024-00338-9</link>
-			<pubDate>2024-10-08</pubDate>
-		</item>
-		<item>
-			<title>Intragenic antimicrobial peptide Hs02 toxicity against leukemia cell lines is associated with increased expression of select pyroptotic components</title>
-			<link>https://doi.org/10.1016/j.tiv.2024.105945</link>
-			<pubDate>2024-09-28</pubDate>
-		</item>
-		<item>
-			<title>Visible‐Light‐Enabled Dual‐Catalysis Approach to Stereoselective [2+2] Cycloaddition of Erlenmeyer‐Plöchl Azlactones</title>
-			<link>https://doi.org/10.1002/ajoc.202400271</link>
-			<pubDate>2024-08-16</pubDate>
-		</item>
-		<item>
-			<title>Mapping the Brazilian Scientific Diaspora: Migration Patterns of PhDs in Global Mobility</title>
-			<link>https://doi.org/10.1101/2024.04.22.590567</link>
-			<pubDate>2024-04-22</pubDate>
-		</item>
-		<item>
-			<title>Medicinal Chemistry in Times of Scientific Obscurantism and Denialism: Do We Have a Future?</title>
-			<link>https://doi.org/10.21577/0103-5053.20240147</link>
-			<pubDate>2024-01-01</pubDate>
-		</item>
-		<item>
-			<title>DESENVOLVIMENTO DE REAÇÕES MULTICOMPONENTES CATALISADAS COM DERIVADOS DE LÍQUIDOS IÔNICOS PARA SÍNTESE DE SISTEMAS HETEROCÍCLICOS COM APLICAÇÃO BIOLÓGICA</title>
-			<link>https://doi.org/10.37885/240115450</link>
-			<pubDate>2024-01-01</pubDate>
-		</item>
-	</channel>
+    <channel>
+        <title>Artigos Publicados</title>
+        <link>https://github.com</link>
+        <description>Feed de artigos cientificos</description>
+        <item>
+            <title>Solvent Effects on the Photophysical Properties of Unexplored Imidazo[1,2- &lt;i&gt;a&lt;/i&gt; ]pyridine Derivatives</title>
+            <link>https://doi.org/10.1021/acsomega.5c07201</link>
+            <pubDate>2026-03-13</pubDate>
+            <description>Victor H. Justino Garcia Praciano; Luan A. Martinho; Guilherme Duarte Ramos Matos; Claudia C. Gatto; Carlos Kleber Z. Andrade. Solvent Effects on the Photophysical Properties of Unexplored Imidazo[1,2- &lt;i&gt;a&lt;/i&gt; ]pyridine Derivatives. ACS Omega, 2026. DOI: https://doi.org/10.1021/acsomega.5c07201</description>
+        </item>
+        <item>
+            <title>CCDC 2517791: Experimental Crystal Structure Determination</title>
+            <link>https://doi.org/10.5517/ccdc.csd.cc2qhz29</link>
+            <pubDate>2026-02-19</pubDate>
+            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. CCDC 2517791: Experimental Crystal Structure Determination. The Cambridge Structural Database, 2026. DOI: https://doi.org/10.5517/ccdc.csd.cc2qhz29</description>
+        </item>
+        <item>
+            <title>CCDC 2517790: Experimental Crystal Structure Determination</title>
+            <link>https://doi.org/10.5517/ccdc.csd.cc2qhz18</link>
+            <pubDate>2026-02-19</pubDate>
+            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. CCDC 2517790: Experimental Crystal Structure Determination. The Cambridge Structural Database, 2026. DOI: https://doi.org/10.5517/ccdc.csd.cc2qhz18</description>
+        </item>
+        <item>
+            <title>Optimizing the Flavor Profile of Brazilian Spirits: Torrefaction Modeling of Native Woods for Cachaça Maturation</title>
+            <link>https://doi.org/10.3390/molecules31040633</link>
+            <pubDate>2026-02-12</pubDate>
+            <description>Amanda Felipe Reitenbach; Adriana Sturion Lorenzi; Nicole Porto Catibe; Renata P. I. Tormena; D. Brasil Santos; Ana Carolina Broch; Edgar A. Silveira; Talita Souza Carmo; Paulo A. Z. Suarez; Grace Ferreira Ghesti. Optimizing the Flavor Profile of Brazilian Spirits: Torrefaction Modeling of Native Woods for Cachaça Maturation. Molecules, v. 31, n. 4, 2026. DOI: https://doi.org/10.3390/molecules31040633</description>
+        </item>
+        <item>
+            <title>Analysis of the impact of a biostimulant developed with carbon‐dot and Brazil's dependence on foreign technologies</title>
+            <link>https://doi.org/10.1002/jsf2.70025</link>
+            <pubDate>2026-02-03</pubDate>
+            <description>Grace Ferreira Ghesti; Victor Seabra Dornas; Cristina M. Quintella; Aryane Ribeiro Oliveira; Amanda Felipe Reitenbach. Analysis of the impact of a biostimulant developed with carbon‐dot and Brazil's dependence on foreign technologies. JSFA reports, v. 6, n. 3, 2026. DOI: https://doi.org/10.1002/jsf2.70025</description>
+        </item>
+        <item>
+            <title>Graphitic Carbon Nitride as a Nanostimulant in Basil Microgreens: Insights into Growth, Flavonoid Content, and Water Stress Response</title>
+            <link>https://doi.org/10.1021/acsomega.5c10297</link>
+            <pubDate>2026-01-28</pubDate>
+            <description>Gesiely Rosany Costa Resende; Jhon Lennon Bezerra da Silva; Washington Nunes da Silva; Wilian Henrique Diniz Buso; Vania Sardinha dos Santos Diniz; Alex Fabiano Cortez Campos; Atailson Oliveira da Silva; Marcelo Henrique Sousa; Eliane Vieira Rosa. Graphitic Carbon Nitride as a Nanostimulant in Basil Microgreens: Insights into Growth, Flavonoid Content, and Water Stress Response. ACS Omega, v. 11, n. 5, 2026. DOI: https://doi.org/10.1021/acsomega.5c10297</description>
+        </item>
+        <item>
+            <title>Microwave-Assisted Synthesis of 1,4-Dihydropyridines via the Hantzsch Reaction Using a Recyclable HPW/PEG-400 Catalytic System</title>
+            <link>https://doi.org/10.3390/catal16010096</link>
+            <pubDate>2026-01-17</pubDate>
+            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. Microwave-Assisted Synthesis of 1,4-Dihydropyridines via the Hantzsch Reaction Using a Recyclable HPW/PEG-400 Catalytic System. Catalysts, v. 16, n. 1, 2026. DOI: https://doi.org/10.3390/catal16010096</description>
+        </item>
+        <item>
+            <title>Quasiparticle energies and electron density reorganization in B- and N-doped carbon quantum dots: A GW study</title>
+            <link>https://doi.org/10.1063/5.0302509</link>
+            <pubDate>2025-12-18</pubDate>
+            <description>João B. L. Martins; Benedito J. Costa Cabral. Quasiparticle energies and electron density reorganization in B- and N-doped carbon quantum dots: A GW study. The Journal of Chemical Physics, v. 163, n. 23, 2025. DOI: https://doi.org/10.1063/5.0302509</description>
+        </item>
+        <item>
+            <title>Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions</title>
+            <link>https://doi.org/10.3390/catal15121170</link>
+            <pubDate>2025-12-16</pubDate>
+            <description>Deborah da Silva Valadares; Roberto Chaves Fernandes; Walter Carvalho; José A. Dias; Sílvia C.L. Dias. Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions. Catalysts, v. 15, n. 12, 2025. DOI: https://doi.org/10.3390/catal15121170</description>
+        </item>
+        <item>
+            <title>Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions</title>
+            <link>https://doi.org/10.3390/catal15121170</link>
+            <pubDate>2025-12-16</pubDate>
+            <description>Deborah da Silva Valadares; Roberto Chaves Fernandes; Walter Carvalho; José A. Dias; Sílvia C.L. Dias. Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions. Catalysts, v. 15, n. 12, 2025. DOI: https://doi.org/10.3390/catal15121170</description>
+        </item>
+        <item>
+            <title>Graphene Oxide Composites with Ultrahigh-Molecular-Weight Polyethylene for Innovative Prostheses for Arthroplasty</title>
+            <link>https://doi.org/10.1021/acsabm.5c01289</link>
+            <pubDate>2025-12-15</pubDate>
+            <description>Ahmed Subrati; Thyago Arruda Pacheco; Ítalo A. Costa; Victor Carlos Mello; John Fredy Ricardo Marroquin; Mikołaj Kościński; Ludmila A.G. Pinho; Ariane Pandolfo Silveira; Jorlandio F. Felix; Marcílio Cunha‐Filho; Marcio José Poças-Fonseca; Ricardo Bentes Azevedo; Sônia Nair Báo; Rander Pereira Avelar; Leonardo G. Paterno; Sergio Moya; João Paulo Figueiró Longo. Graphene Oxide Composites with Ultrahigh-Molecular-Weight Polyethylene for Innovative Prostheses for Arthroplasty. ACS Applied Bio Materials, v. 9, n. 1, 2025. DOI: https://doi.org/10.1021/acsabm.5c01289</description>
+        </item>
+        <item>
+            <title>Macauba ( &lt;i&gt;Acrocomia aculeata&lt;/i&gt; ) as a Bioenergy Platform: Integrated Biodiesel Production and Lignocellulosic Biomass Valorization</title>
+            <link>https://doi.org/10.1021/acsomega.5c10973</link>
+            <pubDate>2025-12-12</pubDate>
+            <description>Daniel Nascimento; Emerson Gonçalves de Arandas Viana dos Santos; Fábio Moreira da Silva; Diego C. B. D. Santos; Edgar A. Silveira; Janaína Heberle Bortoluzzi; Grace Ferreira Ghesti; Mário R. Meneghetti; Paulo A. Z. Suarez; Simoni Margareti Plentz Meneghetti. Macauba ( &lt;i&gt;Acrocomia aculeata&lt;/i&gt; ) as a Bioenergy Platform: Integrated Biodiesel Production and Lignocellulosic Biomass Valorization. ACS Omega, v. 10, n. 51, 2025. DOI: https://doi.org/10.1021/acsomega.5c10973</description>
+        </item>
+        <item>
+            <title>Carbon-Coated Multifunctional Magnetic Nanoparticles for Fluorescent Detection and Removal of β-Lactam Antibiotics from Water</title>
+            <link>https://doi.org/10.1021/acsomega.5c11157</link>
+            <pubDate>2025-12-11</pubDate>
+            <description>Atailson Oliveira da Silva; Mariana Magalhães Maranhão; Juliani Penha Caland; Guilherme Gomide; Ahmed Subrati; Sergio Moya; Alex Fabiano Cortez Campos; Marcelo Henrique Sousa. Carbon-Coated Multifunctional Magnetic Nanoparticles for Fluorescent Detection and Removal of β-Lactam Antibiotics from Water. ACS Omega, v. 10, n. 50, 2025. DOI: https://doi.org/10.1021/acsomega.5c11157</description>
+        </item>
+        <item>
+            <title>Accelerated Solvent Extraction, Chemical Modification, and Free-Radical Polymerization of Canola (Brassica napus), Carinata (Brassica carinata), and Crambe (Crambe abyssinica) Oils</title>
+            <link>https://doi.org/10.3390/pr13123901</link>
+            <pubDate>2025-12-02</pubDate>
+            <description>Laura Ciciliano; Gabriel Ferreira da Silva Brito; Letícia Karen dos Santos; S. P. Favaro; Fabricio Machado. Accelerated Solvent Extraction, Chemical Modification, and Free-Radical Polymerization of Canola (Brassica napus), Carinata (Brassica carinata), and Crambe (Crambe abyssinica) Oils. Processes, v. 13, n. 12, 2025. DOI: https://doi.org/10.3390/pr13123901</description>
+        </item>
+        <item>
+            <title>Thiazolidinones: novel insights from microwave synthesis, computational studies, and potentially bioactive hybrids</title>
+            <link>https://doi.org/10.3762/bjoc.21.203</link>
+            <pubDate>2025-11-28</pubDate>
+            <description>Luan A. Martinho; Victor H. J. G. Praciano; Guilherme Duarte Ramos Matos; Claudia C. Gatto; Carlos Kleber Z. Andrade. Thiazolidinones: novel insights from microwave synthesis, computational studies, and potentially bioactive hybrids. Beilstein Journal of Organic Chemistry, v. 21, 2025. DOI: https://doi.org/10.3762/bjoc.21.203</description>
+        </item>
+        <item>
+            <title>NCIVISION: A Siamese Neural Network for Molecular Similarity Prediction MEP and RDG Images</title>
+            <link>https://doi.org/10.3390/molecules30234589</link>
+            <pubDate>2025-11-28</pubDate>
+            <description>Rafael Campos Vieira; Letícia A. Nascimento; Arthur Alves Nascimento; NATHALIA CRISTINA CASTILHO ALVES; Érica C. M. Nascimento; João B. L. Martins. NCIVISION: A Siamese Neural Network for Molecular Similarity Prediction MEP and RDG Images. Molecules, v. 30, n. 23, 2025. DOI: https://doi.org/10.3390/molecules30234589</description>
+        </item>
+        <item>
+            <title>Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage</title>
+            <link>https://doi.org/10.3390/foods14234065</link>
+            <pubDate>2025-11-27</pubDate>
+            <description>Erislene S. Almeida; Danyel F. Silva; Natália Soares Oliveira; Juliana Fernandes; Bruna Cuéllar Oliveira; Simone Monteiro; F. Almeida; Jez Willian Batista Braga; Ana Cristi Basile Dias. Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage. Foods, v. 14, n. 23, 2025. DOI: https://doi.org/10.3390/foods14234065</description>
+        </item>
+        <item>
+            <title>Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage</title>
+            <link>https://doi.org/10.3390/foods14234065</link>
+            <pubDate>2025-11-27</pubDate>
+            <description>Erislene S. Almeida; Danyel F. Silva; Natália Soares Oliveira; Juliana Fernandes; Bruna Cuéllar Oliveira; Simone Monteiro; F. Almeida; Jez Willian Batista Braga; Ana Cristi Basile Dias. Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage. Foods, v. 14, n. 23, 2025. DOI: https://doi.org/10.3390/foods14234065</description>
+        </item>
+        <item>
+            <title>Molecular Modeling and Analysis of Cannabinoid and Cannabinoid-like Molecules Combining K-Means Clustering with Pearson Correlation and PCA</title>
+            <link>https://doi.org/10.3390/ijms262311520</link>
+            <pubDate>2025-11-27</pubDate>
+            <description>Rafael Campos Vieira; Érica C. M. Nascimento; João B. L. Martins. Molecular Modeling and Analysis of Cannabinoid and Cannabinoid-like Molecules Combining K-Means Clustering with Pearson Correlation and PCA. International Journal of Molecular Sciences, v. 26, n. 23, 2025. DOI: https://doi.org/10.3390/ijms262311520</description>
+        </item>
+        <item>
+            <title>Synthesis and Properties of *BEA Zeolite Modified with Iron(III) Oxide</title>
+            <link>https://doi.org/10.3390/inorganics13120383</link>
+            <pubDate>2025-11-24</pubDate>
+            <description>Giovana Magalhães dos Santos; Mateus Freitas Paiva; Juliene Oliveira Campos de França; Sílvia C.L. Dias; José A. Dias. Synthesis and Properties of *BEA Zeolite Modified with Iron(III) Oxide. Inorganics, v. 13, n. 12, 2025. DOI: https://doi.org/10.3390/inorganics13120383</description>
+        </item>
+    </channel>
 </rss>
