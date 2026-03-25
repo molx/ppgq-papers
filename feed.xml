@@ -5,10 +5,22 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>CCDC 2409958: Experimental Crystal Structure Determination</title>
+            <link>https://doi.org/10.5517/ccdc.csd.cc2lwrlv</link>
+            <pubDate>2026-03-16</pubDate>
+            <description>Victor H. Justino Garcia Praciano; Luan A. Martinho; Guilherme Duarte Ramos Matos; Claudia C. Gatto; Carlos Kleber Z. Andrade. The Cambridge Structural Database, 2026.</description>
+        </item>
+        <item>
             <title>Solvent Effects on the Photophysical Properties of Unexplored Imidazo[1,2- &lt;i&gt;a&lt;/i&gt; ]pyridine Derivatives</title>
             <link>https://doi.org/10.1021/acsomega.5c07201</link>
             <pubDate>2026-03-13</pubDate>
-            <description>Victor H. Justino Garcia Praciano; Luan A. Martinho; Guilherme Duarte Ramos Matos; Claudia C. Gatto; Carlos Kleber Z. Andrade. ACS Omega, 2026.</description>
+            <description>Victor H. Justino Garcia Praciano; Luan A. Martinho; Guilherme Duarte Ramos Matos; Claudia C. Gatto; Carlos Kleber Z. Andrade. ACS Omega, v. 11, n. 11, 2026.</description>
+        </item>
+        <item>
+            <title>Tailoring Cobalt Content in MnO &lt;sub&gt; &lt;i&gt;x&lt;/i&gt; &lt;/sub&gt; Nanowires for Superior Supercapattery Performance</title>
+            <link>https://doi.org/10.1021/acsomega.5c12806</link>
+            <pubDate>2026-02-27</pubDate>
+            <description>Fernando José Soares Barros; Samuel da Silva Eduardo; Klebson Lucas Pereira Cardozo; Hector A. Aguilar Vitorino; Carlos Martins Aiube; M. Sado; Camila de Lima Ribeiro; Paulo Eduardo Narcizo de Souza; Alysson Martins Almeida Silva; Auro Atsushi Tanaka. ACS Omega, v. 11, n. 9, 2026.</description>
         </item>
         <item>
             <title>CCDC 2517791: Experimental Crystal Structure Determination</title>
@@ -35,6 +47,12 @@
             <description>Grace Ferreira Ghesti; Victor Seabra Dornas; Cristina M. Quintella; Aryane Ribeiro Oliveira; Amanda Felipe Reitenbach. JSFA reports, v. 6, n. 3, 2026.</description>
         </item>
         <item>
+            <title>Effect of &lt;scp&gt;SSZ‐13&lt;/scp&gt; Zeolite Loading and Synthesis Time on the &lt;scp&gt; CO &lt;sub&gt;2&lt;/sub&gt; /N &lt;sub&gt;2&lt;/sub&gt; &lt;/scp&gt; Separation Performance of &lt;scp&gt;PDMS&lt;/scp&gt; Mixed Matrix Membranes</title>
+            <link>https://doi.org/10.1002/app.70492</link>
+            <pubDate>2026-02-02</pubDate>
+            <description>Alice Cardoso Takahashi; Gabriela Luiza Almeida Silva; Igor Lopes de Almeida; João Saul Assis Paes; Kátia Cecília de Souza Figueiredo; Nelcy Della Santina Mohallem; Alysson Martins Almeida Silva; Daniel Dornellas Athayde. Journal of Applied Polymer Science, v. 143, n. 15, 2026.</description>
+        </item>
+        <item>
             <title>Graphitic Carbon Nitride as a Nanostimulant in Basil Microgreens: Insights into Growth, Flavonoid Content, and Water Stress Response</title>
             <link>https://doi.org/10.1021/acsomega.5c10297</link>
             <pubDate>2026-01-28</pubDate>
@@ -47,16 +65,16 @@
             <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. Catalysts, v. 16, n. 1, 2026.</description>
         </item>
         <item>
+            <title>Novel pentagonal ternary monolayers: Design, stability, and high-efficiency solar energy conversion</title>
+            <link>https://doi.org/10.1016/j.cocom.2025.e01192</link>
+            <pubDate>2025-12-19</pubDate>
+            <description>Bill D. Aparicio-Huacarpuma; Warda Elaggoune; José A.S. Laranjeira; Georges Daniel Amvame Nze; Alexandre C. Dias; Alysson Martins Almeida Silva; Júlio R. Sambrano; Luiz Antônio Ribeiro. Computational Condensed Matter, v. 46, 2025.</description>
+        </item>
+        <item>
             <title>Quasiparticle energies and electron density reorganization in B- and N-doped carbon quantum dots: A GW study</title>
             <link>https://doi.org/10.1063/5.0302509</link>
             <pubDate>2025-12-18</pubDate>
             <description>João B. L. Martins; Benedito J. Costa Cabral. The Journal of Chemical Physics, v. 163, n. 23, 2025.</description>
-        </item>
-        <item>
-            <title>Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions</title>
-            <link>https://doi.org/10.3390/catal15121170</link>
-            <pubDate>2025-12-16</pubDate>
-            <description>Deborah da Silva Valadares; Roberto Chaves Fernandes; Walter Carvalho; José A. Dias; Sílvia C.L. Dias. Catalysts, v. 15, n. 12, 2025.</description>
         </item>
         <item>
             <title>Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions</title>
@@ -89,6 +107,12 @@
             <description>Laura Ciciliano; Gabriel Ferreira da Silva Brito; Letícia Karen dos Santos; S. P. Favaro; Fabricio Machado. Processes, v. 13, n. 12, 2025.</description>
         </item>
         <item>
+            <title>Optoelectronic and Excitonic Study of XI &lt;sub&gt;2&lt;/sub&gt; (X = Si, Ge, Sn, and Pb) Monolayers Envisaging Potential Technological Applications</title>
+            <link>https://doi.org/10.1021/acsomega.5c08479</link>
+            <pubDate>2025-11-28</pubDate>
+            <description>Bill D. Aparicio-Huacarpuma; José A.S. Laranjeira; K. A. L. Lima; Elie A. Moujaes; Alysson Martins Almeida Silva; Júlio R. Sambrano; Alexandre C. Dias; Luiz Antônio Ribeiro. ACS Omega, v. 10, n. 48, 2025.</description>
+        </item>
+        <item>
             <title>Thiazolidinones: novel insights from microwave synthesis, computational studies, and potentially bioactive hybrids</title>
             <link>https://doi.org/10.3762/bjoc.21.203</link>
             <pubDate>2025-11-28</pubDate>
@@ -99,30 +123,6 @@
             <link>https://doi.org/10.3390/molecules30234589</link>
             <pubDate>2025-11-28</pubDate>
             <description>Rafael Campos Vieira; Letícia A. Nascimento; Arthur Alves Nascimento; NATHALIA CRISTINA CASTILHO ALVES; Érica C. M. Nascimento; João B. L. Martins. Molecules, v. 30, n. 23, 2025.</description>
-        </item>
-        <item>
-            <title>Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage</title>
-            <link>https://doi.org/10.3390/foods14234065</link>
-            <pubDate>2025-11-27</pubDate>
-            <description>Erislene S. Almeida; Danyel F. Silva; Natália Soares Oliveira; Juliana Fernandes; Bruna Cuéllar Oliveira; Simone Monteiro; F. Almeida; Jez Willian Batista Braga; Ana Cristi Basile Dias. Foods, v. 14, n. 23, 2025.</description>
-        </item>
-        <item>
-            <title>Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage</title>
-            <link>https://doi.org/10.3390/foods14234065</link>
-            <pubDate>2025-11-27</pubDate>
-            <description>Erislene S. Almeida; Danyel F. Silva; Natália Soares Oliveira; Juliana Fernandes; Bruna Cuéllar Oliveira; Simone Monteiro; F. Almeida; Jez Willian Batista Braga; Ana Cristi Basile Dias. Foods, v. 14, n. 23, 2025.</description>
-        </item>
-        <item>
-            <title>Molecular Modeling and Analysis of Cannabinoid and Cannabinoid-like Molecules Combining K-Means Clustering with Pearson Correlation and PCA</title>
-            <link>https://doi.org/10.3390/ijms262311520</link>
-            <pubDate>2025-11-27</pubDate>
-            <description>Rafael Campos Vieira; Érica C. M. Nascimento; João B. L. Martins. International Journal of Molecular Sciences, v. 26, n. 23, 2025.</description>
-        </item>
-        <item>
-            <title>Synthesis and Properties of *BEA Zeolite Modified with Iron(III) Oxide</title>
-            <link>https://doi.org/10.3390/inorganics13120383</link>
-            <pubDate>2025-11-24</pubDate>
-            <description>Giovana Magalhães dos Santos; Mateus Freitas Paiva; Juliene Oliveira Campos de França; Sílvia C.L. Dias; José A. Dias. Inorganics, v. 13, n. 12, 2025.</description>
         </item>
     </channel>
 </rss>
