@@ -50,7 +50,12 @@ def buscar_artigos(autores, limite):
     artigos = []
     
     for autor in autores:
-        orcid_limpo = autor['ORCID'].replace('https://orcid.org/', '').strip()
+        orcid_bruto = autor.get('ORCID', '').strip()
+        
+        if not orcid_bruto:
+            continue
+            
+        orcid_limpo = orcid_bruto.replace('https://orcid.org/', '')
         url = f"https://api.openalex.org/works?filter=author.orcid:https://orcid.org/{orcid_limpo}&sort=publication_date:desc&per-page={limite}"
         resposta = requests.get(url)
         
