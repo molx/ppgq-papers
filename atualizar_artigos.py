@@ -43,6 +43,7 @@ def formatar_referencia(obra):
 
 def buscar_artigos(autores, limite):
     artigos = []
+    vistos = set()
     
     for autor in autores:
         orcid_bruto = autor.get('ORCID', '').strip()
@@ -59,6 +60,14 @@ def buscar_artigos(autores, limite):
             for obra in dados.get('results', []):
                 titulo = obra.get('title', 'Sem titulo')
                 link = obra.get('doi', '')
+                
+                identificador = link if link else titulo
+                
+                if identificador in vistos:
+                    continue
+                    
+                vistos.add(identificador)
+                
                 data_pub = obra.get('publication_date', '')
                 referencia_formatada = formatar_referencia(obra)
                 
