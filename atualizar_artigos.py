@@ -1,28 +1,75 @@
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime
+import csv
 
-def buscar_artigos(orcids, limite):
-    artigos = []
-    para_obter = limite
+def ler_autores(caminho_arquivo):
+    autores = []
+    with open(caminho_arquivo, mode='r', encoding='utf-8') as arquivo:
+        leitor = csv.DictReader(arquivo)
+        for linha in leitor:
+            autores.append(linha)
+    return autores
+
+def formatar_referencia(obra):
+    autores_lista = []
+    for aut in obra.get('authorships', []):
+        nome = aut.get('author', {}).get('display_name', '')
+        if nome:
+            autores_lista.append(nome)
     
-    for orcid in orcids:
-        url = f"https://api.openalex.org/works?filter=author.orcid:https://orcid.org/{orcid}&sort=publication_date:desc&per-page={para_obter}"
-        resposta = requests.get(url)
-        dados = resposta.json()
+    texto_autores = "; ".join(autores_lista)
+    titulo = obra.get('title', 'Sem titulo')
+    ano = str(obra.get('publication_year', ''))
+    
+    revista = ""
+    local_primario = obra.get('primary_location', {})
+    if local_primario and local_primario.get('source'):
+        revista = local_primario.get('source', {}).get('display_name', '')
+    
+    biblio = obra.get('biblio', {})
+    volume = biblio.get('volume', '')
+    fasciculo = biblio.get('issue', '')
+    
+    doi = obra.get('doi', '')
+    
+    referencia = f"{texto_autores}. {titulo}."
+    if revista:
+        referencia += f" {revista},"
+    if volume:
+        referencia += f" v. {volume},"
+    if fasciculo:
+        referencia += f" n. {fasciculo},"
+    if ano:
+        referencia += f" {ano}."
+    if doi:
+        referencia += f" DOI: {doi}"
         
-        for obra in dados.get('results', []):
-            titulo = obra.get('title', 'Sem título')
-            link = obra.get('doi', '')
-            data_pub = obra.get('publication_date', '')
-            
-            artigos.append({
-                'titulo': titulo,
-                'link': link,
-                'data': data_pub
-            })
-            
-    artigos_ordenados = sorted(artigos, key=lambda x: x['data'], reverse=True)
+    return referencia
+
+def buscar_artigos(autores, limite):
+    artigos = []
+    
+    for autor in autores:
+        orcid_limpo = autor['ORCID'].replace('https://orcid.org/', '').strip()
+        url = f"https://api.openalex.org/works?filter=author.orcid:https://orcid.org/{orcid_limpo}&sort=publication_date:desc&per-page={limite}"
+        resposta = requests.get(url)
+        
+        if resposta.status_code == 200:
+            dados = resposta.json()
+            for obra in dados.get('results', []):
+                titulo = obra.get('title', 'Sem titulo')
+                link = obra.get('doi', '')
+                data_pub = obra.get('publication_date', '')
+                referencia_formatada = formatar_referencia(obra)
+                
+                artigos.append({
+                    'titulo': titulo,
+                    'link': link,
+                    'data': data_pub,
+                    'referencia': referencia_formatada
+                })
+                
+    artigos_ordenados = sorted(artigos, key=lambda x: str(x['data']), reverse=True)
     return artigos_ordenados[:limite]
 
 def gerar_rss(artigos, arquivo_saida):
@@ -30,13 +77,13 @@ def gerar_rss(artigos, arquivo_saida):
     canal = ET.SubElement(rss, "channel")
     
     titulo_canal = ET.SubElement(canal, "title")
-    titulo_canal.text = "Últimos Artigos Publicados"
+    titulo_canal.text = "Artigos Publicados"
     
     link_canal = ET.SubElement(canal, "link")
     link_canal.text = "https://github.com"
     
     desc_canal = ET.SubElement(canal, "description")
-    desc_canal.text = "Feed automatizado de artigos científicos"
+    desc_canal.text = "Feed de artigos cientificos"
     
     for art in artigos:
         item = ET.SubElement(canal, "item")
@@ -49,19 +96,17 @@ def gerar_rss(artigos, arquivo_saida):
         
         data_item = ET.SubElement(item, "pubDate")
         data_item.text = art['data']
+        
+        desc_item = ET.SubElement(item, "description")
+        desc_item.text = art['referencia']
 
     arvore = ET.ElementTree(rss)
-    ET.indent(arvore, space="\t", level=0)
+    ET.indent(arvore, space="    ", level=0)
     arvore.write(arquivo_saida, encoding="utf-8", xml_declaration=True)
 
 def principal():
-    lista_orcids = [
-        '0000-0001-5895-9669',
-        '0000-0003-3783-9283'
-    ]
-    limite_total = 20
-    
-    artigos_recentes = buscar_artigos(lista_orcids, limite_total)
+    autores = ler_autores('autores.csv')
+    artigos_recentes = buscar_artigos(autores, 20)
     gerar_rss(artigos_recentes, 'feed.xml')
 
 if __name__ == '__main__':
