@@ -5,6 +5,30 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Correction to “Tailoring Cobalt Content in MnO &lt;sub&gt; &lt;i&gt;x&lt;/i&gt; &lt;/sub&gt; Nanowires for Superior Supercapattery Performance”</title>
+            <link>https://doi.org/10.1021/acsomega.6c02806</link>
+            <pubDate>2026-04-03</pubDate>
+            <description>Fernando José Soares Barros; Samuel da Silva Eduardo; Klebson Lucas Pereira Cardozo; Hector Aguilar Vitorino; Carlos Martins Aiube; M. Sado; Camila de Lima Ribeiro; Paulo Eduardo Narcizo de Souza; Alysson Martins Almeida Silva; Auro Atsushi Tanaka. ACS Omega, 2026.</description>
+        </item>
+        <item>
+            <title>Optimization of the Chimeric Peptide Chim4 for Cell Selectivity and Proteolysis Stability</title>
+            <link>https://doi.org/10.3390/proceedings2026137136</link>
+            <pubDate>2026-04-03</pubDate>
+            <description>João Bueno Nunes; Bruno S. Sá; Guilherme H. S. Santos; Izadora C. M. Oliveira; Sonia M. Freitas; Marcelo H. S. Ramada; José R. S. A. Leite; Guilherme D. Brand. 2026.</description>
+        </item>
+        <item>
+            <title>Synthesis of Ceria-Based Mixed Oxides with Copper, Manganese, and Molybdenum for Diesel Soot Catalytic Combustion</title>
+            <link>https://doi.org/10.3390/chemistry8040044</link>
+            <pubDate>2026-04-02</pubDate>
+            <description>Hugo O. R. P. Malacco; Anndréia Letícia Leite Fiusa; Maria Clara Hortencio Clemente; G.A.V. Martins; Sílvia C.L. Dias; José Alves Dias. Chemistry, v. 8, n. 4, 2026.</description>
+        </item>
+        <item>
+            <title>Unveiling the Mechanistic Role of Lewis Acidic Ionic Liquids in Styrene Polymerization</title>
+            <link>https://doi.org/10.1021/acspolymersau.6c00024</link>
+            <pubDate>2026-03-31</pubDate>
+            <description>Thainá Araruna; Gabriel F. S. Brito; Gisele A. Medeiros; Gabriel V. S. Dutra; Fabricio Machado; Brenno A. D. Neto. ACS Polymers Au, 2026.</description>
+        </item>
+        <item>
             <title>CCDC 2409958: Experimental Crystal Structure Determination</title>
             <link>https://doi.org/10.5517/ccdc.csd.cc2lwrlv</link>
             <pubDate>2026-03-16</pubDate>
@@ -99,30 +123,6 @@
             <link>https://doi.org/10.1021/acsomega.5c11157</link>
             <pubDate>2025-12-11</pubDate>
             <description>Atailson Oliveira da Silva; Mariana Magalhães Maranhão; Juliani Penha Caland; Guilherme Gomide; Ahmed Subrati; Sergio Moya; Alex Fabiano Cortez Campos; Marcelo Henrique Sousa. ACS Omega, v. 10, n. 50, 2025.</description>
-        </item>
-        <item>
-            <title>Accelerated Solvent Extraction, Chemical Modification, and Free-Radical Polymerization of Canola (Brassica napus), Carinata (Brassica carinata), and Crambe (Crambe abyssinica) Oils</title>
-            <link>https://doi.org/10.3390/pr13123901</link>
-            <pubDate>2025-12-02</pubDate>
-            <description>Laura Ciciliano; Gabriel Ferreira da Silva Brito; Letícia Karen dos Santos; S. P. Favaro; Fabricio Machado. Processes, v. 13, n. 12, 2025.</description>
-        </item>
-        <item>
-            <title>Optoelectronic and Excitonic Study of XI &lt;sub&gt;2&lt;/sub&gt; (X = Si, Ge, Sn, and Pb) Monolayers Envisaging Potential Technological Applications</title>
-            <link>https://doi.org/10.1021/acsomega.5c08479</link>
-            <pubDate>2025-11-28</pubDate>
-            <description>Bill D. Aparicio-Huacarpuma; José A.S. Laranjeira; K. A. L. Lima; Elie A. Moujaes; Alysson Martins Almeida Silva; Júlio R. Sambrano; Alexandre C. Dias; Luiz Antônio Ribeiro. ACS Omega, v. 10, n. 48, 2025.</description>
-        </item>
-        <item>
-            <title>Thiazolidinones: novel insights from microwave synthesis, computational studies, and potentially bioactive hybrids</title>
-            <link>https://doi.org/10.3762/bjoc.21.203</link>
-            <pubDate>2025-11-28</pubDate>
-            <description>Luan A. Martinho; Victor H. J. G. Praciano; Guilherme Duarte Ramos Matos; Claudia C. Gatto; Carlos Kleber Z. Andrade. Beilstein Journal of Organic Chemistry, v. 21, 2025.</description>
-        </item>
-        <item>
-            <title>Statistical and Multivariate Evaluation of Olive Oil Degradation During Long-Term Storage</title>
-            <link>https://doi.org/10.3390/foods14234065</link>
-            <pubDate>2025-11-27</pubDate>
-            <description>Erislene S. Almeida; Danyel F. Silva; Natália Soares Oliveira; Juliana Fernandes; Bruna Cuéllar Oliveira; Simone Monteiro; F. Almeida; Jez Willian Batista Braga; Ana Cristi Basile Dias. Foods, v. 14, n. 23, 2025.</description>
         </item>
     </channel>
 </rss>
