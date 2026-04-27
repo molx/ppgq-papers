@@ -5,6 +5,12 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>A Novel Ocellatin-P1 Isoform from Leptodactylus labyrinthicus Frog Skin Secretion: Purification, Biological Properties and Three-Dimensional Structure</title>
+            <link>https://doi.org/10.3390/ijms27083658</link>
+            <pubDate>2026-04-20</pubDate>
+            <description>César Augusto Prías-Márquez; E.S.F. Alves; Carlos José Correia de Santana; Osmindo Rodrigues Pires Júnior; Eduardo Maffud Cilli; Fabiano José Queiroz Costa; Alice da Cunha Morales Álvares; Sônia Maria de Freitas; Isabel de Fátima Correia Batista; Rafael Marques Porto; Isabelle S. Luz; Ricardo B. Azevedo; João Paulo Stawiarski Miranda; Henrique de Oliveira Noronha; Marco Antônio Damasceno Faustino; Felipe da Silva Mendonça de Melo; Alexandra Maria dos Santos Carvalho; Izabela Marques Dourado Bastos; Wagner Fontes; Aline L. Oliveira; Luciano M. Lião; Mariana S. Castro. International Journal of Molecular Sciences, v. 27, n. 8, 2026.</description>
+        </item>
+        <item>
             <title>Kinetics and Mechanism of the Enantioselective Passerini Multicomponent Reaction Catalyzed by Chiral Ionic Liquids</title>
             <link>https://doi.org/10.1021/acsomega.5c13327</link>
             <pubDate>2026-04-16</pubDate>
@@ -101,7 +107,7 @@
             <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. Catalysts, v. 16, n. 1, 2026.</description>
         </item>
         <item>
-            <title>Decoding Magnetization and Magnetic anisotropy in Core@Shell Ferrite Nanoparticles: Interplay between cation distribution and spin disorder</title>
+            <title>Decoding magnetization and magnetic anisotropy in core@shell ferrite nanoparticles: interplay between cation distribution and spin disorder</title>
             <link>https://doi.org/10.1039/d6nr00200e</link>
             <pubDate>2026-01-01</pubDate>
             <description>Rafael C Gomes; Vanessa Pilati; Fernando H Martins; Franciscarlos Gomes da Silva; Guilherme Gomide; Bárbara C C Pereira; Priscilla Coppola; Fabio Luis Oliveira Paula; Alex Fabiano Cortez Campos; Cynara Kern Barreto; Gerardo F. Goya; Florence Porcher; Renata Aquino; Emmanuelle Dubois; Regine Perzynski; Jerome Depeyrot. Nanoscale, 2026.</description>
@@ -116,13 +122,7 @@
             <title>Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions</title>
             <link>https://doi.org/10.3390/catal15121170</link>
             <pubDate>2025-12-16</pubDate>
-            <description>Deborah da Silva Valadares; Roberto Chaves Fernandes; Walter Carvalho; José A. Dias; Sílvia C.L. Dias. Catalysts, v. 15, n. 12, 2025.</description>
-        </item>
-        <item>
-            <title>Graphene Oxide Composites with Ultrahigh-Molecular-Weight Polyethylene for Innovative Prostheses for Arthroplasty</title>
-            <link>https://doi.org/10.1021/acsabm.5c01289</link>
-            <pubDate>2025-12-15</pubDate>
-            <description>Ahmed Subrati; Thyago Arruda Pacheco; Ítalo A. Costa; Victor Carlos Mello; John Fredy Ricardo Marroquin; Mikołaj Kościński; Ludmila A.G. Pinho; Ariane Pandolfo Silveira; Jorlandio F. Felix; Marcílio Cunha‐Filho; Marcio José Poças-Fonseca; Ricardo Bentes Azevedo; Sônia Nair Báo; Rander Pereira Avelar; Leonardo G. Paterno; Sergio Moya; João Paulo Figueiró Longo. ACS Applied Bio Materials, v. 9, n. 1, 2025.</description>
+            <description>Deborah da Silva Valadares; Roberto Chaves Fernandes; Willian Henrique Ribeiro de Carvalho; José A. Dias; Sílvia C.L. Dias. Catalysts, v. 15, n. 12, 2025.</description>
         </item>
     </channel>
 </rss>
