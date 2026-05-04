@@ -5,16 +5,22 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>HPLC-DAD Method for Cannabinoid Quantification in Brazilian Cannabis Oils and Extracts</title>
+            <link>https://doi.org/10.21203/rs.3.rs-9224291/v1</link>
+            <pubDate>2026-04-28</pubDate>
+            <description>Maria Vitória dos Santos Villa Bande; F. Almeida; Claudete da Costa-Oliveira; João Gabriel Gouvea; Ana Cristi Basile Dias. Research Square, 2026.</description>
+        </item>
+        <item>
             <title>A Novel Ocellatin-P1 Isoform from Leptodactylus labyrinthicus Frog Skin Secretion: Purification, Biological Properties and Three-Dimensional Structure</title>
             <link>https://doi.org/10.3390/ijms27083658</link>
             <pubDate>2026-04-20</pubDate>
-            <description>César Augusto Prías-Márquez; E.S.F. Alves; Carlos José Correia de Santana; Osmindo Rodrigues Pires Júnior; Eduardo Maffud Cilli; Fabiano José Queiroz Costa; Alice da Cunha Morales Álvares; Sônia Maria de Freitas; Isabel de Fátima Correia Batista; Rafael Marques Porto; Isabelle S. Luz; Ricardo B. Azevedo; João Paulo Stawiarski Miranda; Henrique de Oliveira Noronha; Marco Antônio Damasceno Faustino; Felipe da Silva Mendonça de Melo; Alexandra Maria dos Santos Carvalho; Izabela Marques Dourado Bastos; Wagner Fontes; Aline L. Oliveira; Luciano M. Lião; Mariana S. Castro. International Journal of Molecular Sciences, v. 27, n. 8, 2026.</description>
+            <description>César Augusto Prías-Márquez; E.S.F. Alves; Carlos José Correia de Santana; Osmindo Rodrigues Pires Júnior; Eduardo Maffud Cilli; Fabiano José Queiroz Costa; Alice da Cunha Morales Álvares; Sônia Maria de Freitas; Isabel de Fátima Correia Batista; Rafael Marques Porto; Isabelle S. Luz; Ricardo Bentes Azevedo; João Paulo Stawiarski Miranda; Henrique de Oliveira Noronha; Marco Antônio Damasceno Faustino; Felipe da Silva Mendonça de Melo; Alexandra Maria dos Santos Carvalho; Izabela Marques Dourado Bastos; Wagner Fontes; Aline Oliveira; Luciano M. Lião; Mariana S. Castro. International Journal of Molecular Sciences, v. 27, n. 8, 2026.</description>
         </item>
         <item>
             <title>Kinetics and Mechanism of the Enantioselective Passerini Multicomponent Reaction Catalyzed by Chiral Ionic Liquids</title>
             <link>https://doi.org/10.1021/acsomega.5c13327</link>
             <pubDate>2026-04-16</pubDate>
-            <description>Juliana Santos; Pedro P. De Castro; Saulo T. A. Passos; Virginia Camila Rufino Ferreira; Fabricio Machado; Daniel M. Araújo; Hélio F. Dos Santos; Brenno A. D. Neto; Giovanni W. Amarante. ACS Omega, 2026.</description>
+            <description>Juliana Santos; Pedro P. de Castro; Saulo T. A. Passos; Virgínia C. Rufino; Fabricio Machado; Daniel M. Araújo; Hélio F. Dos Santos; Brenno A. D. Neto; Giovanni W. Amarante. ACS Omega, v. 11, n. 16, 2026.</description>
         </item>
         <item>
             <title>Correction to “Tailoring Cobalt Content in MnO &lt;sub&gt; &lt;i&gt;x&lt;/i&gt; &lt;/sub&gt; Nanowires for Superior Supercapattery Performance”</title>
@@ -68,13 +74,13 @@
             <title>CCDC 2517791: Experimental Crystal Structure Determination</title>
             <link>https://doi.org/10.5517/ccdc.csd.cc2qhz29</link>
             <pubDate>2026-02-19</pubDate>
-            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. The Cambridge Structural Database, 2026.</description>
+            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Souza Maravalho. The Cambridge Structural Database, 2026.</description>
         </item>
         <item>
             <title>CCDC 2517790: Experimental Crystal Structure Determination</title>
             <link>https://doi.org/10.5517/ccdc.csd.cc2qhz18</link>
             <pubDate>2026-02-19</pubDate>
-            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. The Cambridge Structural Database, 2026.</description>
+            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Souza Maravalho. The Cambridge Structural Database, 2026.</description>
         </item>
         <item>
             <title>Optimizing the Flavor Profile of Brazilian Spirits: Torrefaction Modeling of Native Woods for Cachaça Maturation</title>
@@ -104,7 +110,7 @@
             <title>Microwave-Assisted Synthesis of 1,4-Dihydropyridines via the Hantzsch Reaction Using a Recyclable HPW/PEG-400 Catalytic System</title>
             <link>https://doi.org/10.3390/catal16010096</link>
             <pubDate>2026-01-17</pubDate>
-            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Maravalho. Catalysts, v. 16, n. 1, 2026.</description>
+            <description>W. T. M. Silva; Sayuri Cristina Santos Takada; Claudia C. Gatto; Izabella Vitoria Souza Maravalho. Catalysts, v. 16, n. 1, 2026.</description>
         </item>
         <item>
             <title>Decoding magnetization and magnetic anisotropy in core@shell ferrite nanoparticles: interplay between cation distribution and spin disorder</title>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.1016/j.cocom.2025.e01192</link>
             <pubDate>2025-12-19</pubDate>
             <description>Bill D. Aparicio-Huacarpuma; Warda Elaggoune; José A.S. Laranjeira; Georges Daniel Amvame Nze; Alexandre C. Dias; Alysson Martins Almeida Silva; Júlio R. Sambrano; Luiz Antônio Ribeiro. Computational Condensed Matter, v. 46, 2025.</description>
-        </item>
-        <item>
-            <title>Influence of Basic/Acidic Treatment on *BEA Zeolite and WO3 Impregnation in Alcohol Dehydration Reactions</title>
-            <link>https://doi.org/10.3390/catal15121170</link>
-            <pubDate>2025-12-16</pubDate>
-            <description>Deborah da Silva Valadares; Roberto Chaves Fernandes; Willian Henrique Ribeiro de Carvalho; José A. Dias; Sílvia C.L. Dias. Catalysts, v. 15, n. 12, 2025.</description>
         </item>
     </channel>
 </rss>
