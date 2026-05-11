@@ -5,6 +5,12 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Carbon nanoparticles promote Amazonian seedlings growth: Total leaf mass and potential plant photosynthesis increased in forestry species</title>
+            <link>https://doi.org/10.1016/j.indcrop.2026.123340</link>
+            <pubDate>2026-05-01</pubDate>
+            <description>Douglas Aziz Filho; Josiane Celerino de Carvalho; Elmer Viana Gonçalves; Pedro Paulo dos Santos; Thaline M. Pimenta; Karen Cristina Pires da Costa; Camila Andreia Costa de Paula; João Vitor da Silva Teixeira; Auxiliadora Oliveira Martins; Adriano Nunes-Nesi; Wagner L. Araújo; Kaline A. Wanderley; José Francisco de Carvalho Gonçalves. Industrial Crops and Products, v. 246, 2026.</description>
+        </item>
+        <item>
             <title>HPLC-DAD Method for Cannabinoid Quantification in Brazilian Cannabis Oils and Extracts</title>
             <link>https://doi.org/10.21203/rs.3.rs-9224291/v1</link>
             <pubDate>2026-04-28</pubDate>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.1039/d6nr00200e</link>
             <pubDate>2026-01-01</pubDate>
             <description>Rafael C Gomes; Vanessa Pilati; Fernando H Martins; Franciscarlos Gomes da Silva; Guilherme Gomide; Bárbara C C Pereira; Priscilla Coppola; Fabio Luis Oliveira Paula; Alex Fabiano Cortez Campos; Cynara Kern Barreto; Gerardo F. Goya; Florence Porcher; Renata Aquino; Emmanuelle Dubois; Regine Perzynski; Jerome Depeyrot. Nanoscale, 2026.</description>
-        </item>
-        <item>
-            <title>Novel pentagonal ternary monolayers: Design, stability, and high-efficiency solar energy conversion</title>
-            <link>https://doi.org/10.1016/j.cocom.2025.e01192</link>
-            <pubDate>2025-12-19</pubDate>
-            <description>Bill D. Aparicio-Huacarpuma; Warda Elaggoune; José A.S. Laranjeira; Georges Daniel Amvame Nze; Alexandre C. Dias; Alysson Martins Almeida Silva; Júlio R. Sambrano; Luiz Antônio Ribeiro. Computational Condensed Matter, v. 46, 2025.</description>
         </item>
     </channel>
 </rss>
