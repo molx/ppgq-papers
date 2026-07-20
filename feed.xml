@@ -5,6 +5,18 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Solvent-Controlled Reaction Productivity and Mechanistic Pathways in the Multicomponent Synthesis of 2-Amino-3-cyano-4 &lt;i&gt;H&lt;/i&gt; -pyrans</title>
+            <link>https://doi.org/10.1021/acsorginorgau.6c00059</link>
+            <pubDate>2026-07-15</pubDate>
+            <description>Jhonathan Renner Nunes dos Santos; Luciana Machado Ramos; Juliana Gonzaga de Morais Lima; Saulo T. A. Passos; Aline Lima de Oliveira; Fabricio Machado; Brenno A. D. Neto. ACS Organic &amp; Inorganic Au, 2026.</description>
+        </item>
+        <item>
+            <title>Diagnosis of Congenital Disorders of Glycosylation Type II Subtypes Through Comprehensive N-Glycan Profiling by Mass Spectrometry</title>
+            <link>https://doi.org/10.3390/ijms27146309</link>
+            <pubDate>2026-07-15</pubDate>
+            <description>Alan Ribeiro Mól; Nilza do C. Fontes; Savana C.L. Santos; Cynthia Costa e Silva; Gerson da S. Carvalho; Bruno J. C. B. Lima; Walquíria D. de Mello; Daniel R. de Carvalho; Éder Alves Barbosa; Dirk J. Lefeber; Juliana F. Mazzeu; Jaime M. Brum; Guilherme D. Brand. International Journal of Molecular Sciences, v. 27, n. 14, 2026.</description>
+        </item>
+        <item>
             <title>Pd/Activated Biocarbon Applied to a Glycerol Acid-Alkaline Electroreformer for Simultaneous H2 and Electricity Production</title>
             <link>https://doi.org/10.3390/catal16070623</link>
             <pubDate>2026-07-09</pubDate>
@@ -21,6 +33,12 @@
             <link>https://doi.org/10.9771/cp.v19i3.67863</link>
             <pubDate>2026-07-01</pubDate>
             <description>Natália Soares Oliveira; Grace Ferreira Ghesti. Cadernos de Prospecção, v. 19, n. 3, 2026.</description>
+        </item>
+        <item>
+            <title>Impact of the surface chemical composition on the ORR activity of metal-free activated carbon-based electrocatalysts and their performance in DMFCs</title>
+            <link>https://doi.org/10.1016/j.solidstatesciences.2026.108435</link>
+            <pubDate>2026-07-01</pubDate>
+            <description>Silvia da C. Oliveira; José J. Linares; Romulo C. Dutra; Paulo A. Z. Suarez; Carla M. C. da Costa; Evelyn C. G. Alexandre; Myller Tonhá; Daniel Ballesteros-Plata; Enrique Rodrı́guez-Castellón; Marcos J. Prauchner. Solid State Sciences, 2026.</description>
         </item>
         <item>
             <title>Bridged Indolizine‐Naphthyridines: Synthesis and Initial Photophysical Characterization</title>
@@ -105,24 +123,6 @@
             <link>https://doi.org/10.3390/ijms27083658</link>
             <pubDate>2026-04-20</pubDate>
             <description>César Augusto Prías-Márquez; E.S.F. Alves; Carlos José Correia de Santana; Osmindo Rodrigues Pires Júnior; Eduardo Maffud Cilli; Fabiano José Queiroz Costa; Alice da Cunha Morales Álvares; Sônia Maria de Freitas; Isabel de Fátima Correia Batista; Rafael Marques Porto; Isabelle S. Luz; Ricardo Bentes Azevedo; João Paulo Stawiarski Miranda; Henrique de Oliveira Noronha; Marco Antônio Damasceno Faustino; Felipe da Silva Mendonça de Melo; Alexandra Maria dos Santos Carvalho; Izabela Marques Dourado Bastos; Wagner Fontes; Aline Oliveira; Luciano M. Lião; Mariana S. Castro. International Journal of Molecular Sciences, v. 27, n. 8, 2026.</description>
-        </item>
-        <item>
-            <title>Kinetics and Mechanism of the Enantioselective Passerini Multicomponent Reaction Catalyzed by Chiral Ionic Liquids</title>
-            <link>https://doi.org/10.1021/acsomega.5c13327</link>
-            <pubDate>2026-04-16</pubDate>
-            <description>Juliana Santos; Pedro P. de Castro; Saulo T. A. Passos; Virgínia C. Rufino; Fabricio Machado; Daniel M. Araújo; Hélio F. Dos Santos; Brenno A. D. Neto; Giovanni W. Amarante. ACS Omega, v. 11, n. 16, 2026.</description>
-        </item>
-        <item>
-            <title>Correction to “Tailoring Cobalt Content in MnO &lt;sub&gt; &lt;i&gt;x&lt;/i&gt; &lt;/sub&gt; Nanowires for Superior Supercapattery Performance”</title>
-            <link>https://doi.org/10.1021/acsomega.6c02806</link>
-            <pubDate>2026-04-03</pubDate>
-            <description>Fernando José Soares Barros; Samuel da Silva Eduardo; Klebson Lucas Pereira Cardozo; Hector Aguilar Vitorino; Carlos Martins Aiube; M. Sado; Camila de Lima Ribeiro; Paulo Eduardo Narcizo de Souza; Alysson Martins Almeida Silva; Auro Atsushi Tanaka. ACS Omega, v. 11, n. 14, 2026.</description>
-        </item>
-        <item>
-            <title>Optimization of the Chimeric Peptide Chim4 for Cell Selectivity and Proteolysis Stability</title>
-            <link>https://doi.org/10.3390/proceedings2026137136</link>
-            <pubDate>2026-04-03</pubDate>
-            <description>João Bueno Nunes; Bruno S. Sá; Guilherme H. S. Santos; Izadora C. M. Oliveira; Sonia M. Freitas; Marcelo H. S. Ramada; José R. S. A. Leite; Guilherme D. Brand. 2026.</description>
         </item>
     </channel>
 </rss>
