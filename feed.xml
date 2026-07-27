@@ -5,6 +5,18 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Experimental simulations and regional estimates of mercury emissions from fire-affected Cerrado soils (Central Brazil)</title>
+            <link>https://doi.org/10.1016/j.apgeochem.2026.107008</link>
+            <pubDate>2026-07-25</pubDate>
+            <description>Lucas Cabrera Monteiro; Jérémie Garnier; Ronaldo de Almeida; Wanderley Rodrigues Bastos; Cleber Lopes Filomeno; Rodrigo Nunes de Souza; Uidemar Morais Barral; Fermin Fidel Herrera Aragon; Tharcianny Krisllen Nascimento da Silva Oliveira; Jurandir Rodrigues de Souza; José Vicente Elias Bernardi. Applied Geochemistry, v. 208, 2026.</description>
+        </item>
+        <item>
+            <title>Impact of the surface chemical composition on the ORR activity of metal-free activated carbon-based electrocatalysts and their performance in DMFCs</title>
+            <link>https://doi.org/10.1016/j.solidstatesciences.2026.108435</link>
+            <pubDate>2026-07-16</pubDate>
+            <description>Silvia da C. Oliveira; José J. Linares; Romulo C. Dutra; Paulo A. Z. Suarez; Carla M. C. da Costa; Evelyn C. G. Alexandre; Myller Tonhá; Daniel Ballesteros-Plata; Enrique Rodrı́guez-Castellón; Marcos J. Prauchner. Solid State Sciences, v. 180, 2026.</description>
+        </item>
+        <item>
             <title>Solvent-Controlled Reaction Productivity and Mechanistic Pathways in the Multicomponent Synthesis of 2-Amino-3-cyano-4 &lt;i&gt;H&lt;/i&gt; -pyrans</title>
             <link>https://doi.org/10.1021/acsorginorgau.6c00059</link>
             <pubDate>2026-07-15</pubDate>
@@ -33,12 +45,6 @@
             <link>https://doi.org/10.9771/cp.v19i3.67863</link>
             <pubDate>2026-07-01</pubDate>
             <description>Natália Soares Oliveira; Grace Ferreira Ghesti. Cadernos de Prospecção, v. 19, n. 3, 2026.</description>
-        </item>
-        <item>
-            <title>Impact of the surface chemical composition on the ORR activity of metal-free activated carbon-based electrocatalysts and their performance in DMFCs</title>
-            <link>https://doi.org/10.1016/j.solidstatesciences.2026.108435</link>
-            <pubDate>2026-07-01</pubDate>
-            <description>Silvia da C. Oliveira; José J. Linares; Romulo C. Dutra; Paulo A. Z. Suarez; Carla M. C. da Costa; Evelyn C. G. Alexandre; Myller Tonhá; Daniel Ballesteros-Plata; Enrique Rodrı́guez-Castellón; Marcos J. Prauchner. Solid State Sciences, 2026.</description>
         </item>
         <item>
             <title>Bridged Indolizine‐Naphthyridines: Synthesis and Initial Photophysical Characterization</title>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.21203/rs.3.rs-9224291/v1</link>
             <pubDate>2026-04-28</pubDate>
             <description>Maria Vitória dos Santos Villa Bande; F. Almeida; Claudete da Costa-Oliveira; João Gabriel Gouvea; Ana Cristi Basile Dias. Research Square, 2026.</description>
-        </item>
-        <item>
-            <title>A Novel Ocellatin-P1 Isoform from Leptodactylus labyrinthicus Frog Skin Secretion: Purification, Biological Properties and Three-Dimensional Structure</title>
-            <link>https://doi.org/10.3390/ijms27083658</link>
-            <pubDate>2026-04-20</pubDate>
-            <description>César Augusto Prías-Márquez; E.S.F. Alves; Carlos José Correia de Santana; Osmindo Rodrigues Pires Júnior; Eduardo Maffud Cilli; Fabiano José Queiroz Costa; Alice da Cunha Morales Álvares; Sônia Maria de Freitas; Isabel de Fátima Correia Batista; Rafael Marques Porto; Isabelle S. Luz; Ricardo Bentes Azevedo; João Paulo Stawiarski Miranda; Henrique de Oliveira Noronha; Marco Antônio Damasceno Faustino; Felipe da Silva Mendonça de Melo; Alexandra Maria dos Santos Carvalho; Izabela Marques Dourado Bastos; Wagner Fontes; Aline Oliveira; Luciano M. Lião; Mariana S. Castro. International Journal of Molecular Sciences, v. 27, n. 8, 2026.</description>
         </item>
     </channel>
 </rss>
