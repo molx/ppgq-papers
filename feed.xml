@@ -5,6 +5,12 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Enhanced pozzolanic activity of microcrystalline cellulose via silane modification for cementitious composites</title>
+            <link>https://doi.org/10.1007/s10570-026-07169-y</link>
+            <pubDate>2026-08-08</pubDate>
+            <description>José Ricardo Guimarães Corrêa; Valdirene Maria Silva Capuzzo; Gabriel Ferreira da Silva Brito; Fabricio Machado. Cellulose, 2026.</description>
+        </item>
+        <item>
             <title>Microwave-Intensified Hofmann Carbylamine Reaction Enabled by Span® 80: Rapid Access to Isocyanides in a Biphasic System</title>
             <link>https://doi.org/10.3390/molecules31152620</link>
             <pubDate>2026-07-27</pubDate>
@@ -56,7 +62,7 @@
             <title>Bridged Indolizine‐Naphthyridines: Synthesis and Initial Photophysical Characterization</title>
             <link>https://doi.org/10.1002/ejoc.70643</link>
             <pubDate>2026-06-30</pubDate>
-            <description>Ana Julia Senna; Thaynan A. B. Chagas; Raíssa K. C. de Paiva; Brenno A. D. Neto; Manoel T. Rodrigues; Patrícia M. Alves; Fernando Coelho. European Journal of Organic Chemistry, 2026.</description>
+            <description>Ana Julia Senna; Thaynan A. B. Chagas; Raíssa K. C. de Paiva; Brenno A. D. Neto; Manoel T. Rodrigues; Patrícia M. Alves; Fernando Coelho. European Journal of Organic Chemistry, v. 29, n. 29, 2026.</description>
         </item>
         <item>
             <title>Anaerobic Digestate and Carbon Dot Biostimulants: Nutrient Uptake Efficiency and Residual Effects on Corn (Zea mays L.) Vegetative Growth in Sandy Soils</title>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.6084/m9.figshare.32394935</link>
             <pubDate>2026-05-24</pubDate>
             <description>Amanda Felippe Reitenbach; Rômulo Alves Morais; Aline Duarte Correa de Brito; Ana Machado Carolina Broch; Grace Ferreira Ghesti; Tatiane Luciano Balliano; Cristiane Ribeiro de Carvalho. Figshare, 2026.</description>
-        </item>
-        <item>
-            <title>Carbon nanoparticles promote Amazonian seedlings growth: Total leaf mass and potential plant photosynthesis increased in forestry species</title>
-            <link>https://doi.org/10.1016/j.indcrop.2026.123340</link>
-            <pubDate>2026-05-01</pubDate>
-            <description>Douglas Aziz Filho; Josiane Celerino de Carvalho; Elmer Viana Gonçalves; Pedro Paulo dos Santos; Thaline M. Pimenta; Karen Cristina Pires da Costa; Camila Andreia Costa de Paula; João Vitor da Silva Teixeira; Auxiliadora Oliveira Martins; Adriano Nunes-Nesi; Wagner L. Araújo; Kaline A. Wanderley; José Francisco de Carvalho Gonçalves. Industrial Crops and Products, v. 246, 2026.</description>
         </item>
     </channel>
 </rss>
