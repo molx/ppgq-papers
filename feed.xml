@@ -5,6 +5,12 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Light-harvesting efficiency and excitonic properties of a two-dimensional Zr2CO2/SiS2 heterobilayer</title>
+            <link>https://doi.org/10.1016/j.surfin.2026.110557</link>
+            <pubDate>2026-09-09</pubDate>
+            <description>Bill D. Aparicio-Huacarpuma; T. A. S. Pereira; M. V. Miloševıć; Alysson Martins Almeida Silva; Alexandre C. Dias; Luiz Antônio Ribeiro. Surfaces and Interfaces, v. 98, 2026.</description>
+        </item>
+        <item>
             <title>Molecular modeling and quantum chemical calculation study of derived peptides from a Bowman-Birk inhibitor in complexes with trypsin</title>
             <link>https://doi.org/10.1007/s00894-026-06931-0</link>
             <pubDate>2026-09-05</pubDate>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.20944/preprints202605.1609.v1</link>
             <pubDate>2026-05-25</pubDate>
             <description>Fernando M. de A. Lino; Rossano Gambetta; Simone P. Favaro; José J. Linares. Preprints.org, 2026.</description>
-        </item>
-        <item>
-            <title>Advances in Cocoa Aroma Research: From Microbial Fermentation to Roasting and Sensory Complexity</title>
-            <link>https://doi.org/10.6084/m9.figshare.32394935.v1</link>
-            <pubDate>2026-05-24</pubDate>
-            <description>Amanda Felippe Reitenbach; Rômulo Alves Morais; Aline Duarte Correa de Brito; Ana Machado Carolina Broch; Grace Ferreira Ghesti; Tatiane Luciano Balliano; Cristiane Ribeiro de Carvalho. Figshare, 2026.</description>
         </item>
     </channel>
 </rss>
