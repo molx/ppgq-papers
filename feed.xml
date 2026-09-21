@@ -5,6 +5,12 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Snake–MorphoHydraulic: A target-driven workflow for synthetic digital rock generation and morphohydraulic characterization</title>
+            <link>https://doi.org/10.1016/j.advwatres.2026.105489</link>
+            <pubDate>2026-09-14</pubDate>
+            <description>R. M. Tromer; Israel da Silva Oliveira; Alysson Martins Almeida Silva; Santosh K. Tiwari; Paola Ferreira Barbosa; Roberto Ventura Santos; Luiz Antônio Ribeiro. Advances in Water Resources, v. 218, 2026.</description>
+        </item>
+        <item>
             <title>Light-harvesting efficiency and excitonic properties of a two-dimensional Zr2CO2/SiS2 heterobilayer</title>
             <link>https://doi.org/10.1016/j.surfin.2026.110557</link>
             <pubDate>2026-09-09</pubDate>
@@ -21,6 +27,18 @@
             <link>https://doi.org/10.1002/pc.71575</link>
             <pubDate>2026-09-02</pubDate>
             <description>Vilson Dalla Libera; Alysson Martins Almeida Silva; Linconl A. Teixeira; Marielle da Silva Macedo; Sandra M. Luz. Polymer Composites, 2026.</description>
+        </item>
+        <item>
+            <title>Skin Histology of Pithecopus spp. and Modulation of Glutathione Status by the Antioxidant Tryptophyllin PaT-2</title>
+            <link>https://doi.org/10.3390/antiox15091087</link>
+            <pubDate>2026-08-29</pubDate>
+            <description>Flávia G. D. Araújo; Henrique L. L. de Araújo; Maria da Glória da Silva; João B. Nunes; João G. T. L. Resende; Fernanda L. Silva; Miguel G. Cardoso; Eder A. Barbosa; Andreanne G. Vasconcelos; Guilherme D. Brand; Tatiana Karla dos Santos Borges; Amílcar S. Damazo; Daniel C. Moreira; J. R. Leite. Antioxidants, v. 15, n. 9, 2026.</description>
+        </item>
+        <item>
+            <title>Structural, electronic, and magnetic properties of the hexagonal double perovskite Ba2FeIrO6: A combined computational and experimental investigation</title>
+            <link>https://doi.org/10.1016/j.jallcom.2026.190275</link>
+            <pubDate>2026-08-14</pubDate>
+            <description>P Candido; L. Bufaiçal; L. Ghivelder; M. Sado; Alysson M.A. Silva; H. Fabrelli; E.M. Bittar; J.F. Carvalho; R.C. Santana; Renato B. Pontes. Journal of Alloys and Compounds, v. 1080, 2026.</description>
         </item>
         <item>
             <title>Enhanced pozzolanic activity of microcrystalline cellulose via silane modification for cementitious composites</title>
@@ -105,24 +123,6 @@
             <link>https://doi.org/10.1016/j.eurpolymj.2026.114886</link>
             <pubDate>2026-06-12</pubDate>
             <description>Gabriel Ferreira da Silva Brito; Emily G. Dixon; Mei Y. Young; Adam Lee; Daniel M. Day; Amy R. Goddard; Fabricio Machado; Philippa L. Jacob; Vincenzo Taresco. European Polymer Journal, v. 255, 2026.</description>
-        </item>
-        <item>
-            <title>Pursuing sustainability: Clean technologies roadmap for eco-condominiums</title>
-            <link>https://doi.org/10.35208/ert.1542320</link>
-            <pubDate>2026-06-05</pubDate>
-            <description>Alessandra Do Valle Abrahão; Grace Ghesti. Environmental Research and Technology, v. 9, n. 3, 2026.</description>
-        </item>
-        <item>
-            <title>Synergistic Potential of Plant Alkaloids and Intragenic Antimicrobial Peptides in Treating Multidrug-Resistant Infectious Diseases</title>
-            <link>https://doi.org/10.3390/antibiotics15060561</link>
-            <pubDate>2026-05-31</pubDate>
-            <description>Athamy Sarah de Paula Cruz; Thaís C. de Sousa; Natália Elisabeth Kruklis; Nilton Araripe dos Santos Neto; Bianca Oliveira do Vale Lira; Gabriel Rocha de Andrade; Octávio Luiz Franco; Guilherme D. Brand; Marcelo Henrique Soller Ramada. Antibiotics, v. 15, n. 6, 2026.</description>
-        </item>
-        <item>
-            <title>Pd/Activated Biocarbon Applied to a Glycerol Acid-Alkaline Electroreformer for Simultaneous H2 and Electricity Production</title>
-            <link>https://doi.org/10.20944/preprints202605.1609.v1</link>
-            <pubDate>2026-05-25</pubDate>
-            <description>Fernando M. de A. Lino; Rossano Gambetta; Simone P. Favaro; José J. Linares. Preprints.org, 2026.</description>
         </item>
     </channel>
 </rss>
