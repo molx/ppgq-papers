@@ -5,6 +5,24 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Proteção Intelectual de Invenções Estudantis: análise dos desafios e oportunidades no contexto educacional brasileiro</title>
+            <link>https://doi.org/10.9771/cp.v19i4.67352</link>
+            <pubDate>2026-10-01</pubDate>
+            <description>Perla Inácio Amorim; Kallinny Dutra; Grace Ferreira Ghesti; Eduardo Antônio Ferreira. Cadernos de Prospecção, v. 19, n. 4, 2026.</description>
+        </item>
+        <item>
+            <title>Effect of feed flow rate on hydrodynamics and local permeation in a zeolite membrane module for CO2/CH4 Separation: A 3D CFD Study</title>
+            <link>https://doi.org/10.1016/j.cherd.2026.09.049</link>
+            <pubDate>2026-09-29</pubDate>
+            <description>Adriano Rosa; Braulio Gutierrez Pimenta; Alysson Martins Almeida Silva. Process Safety and Environmental Protection, v. 234, 2026.</description>
+        </item>
+        <item>
+            <title>Accounting for Thermal Effects in the Charge-Transfer Properties of Dipolar Organic Dyes for Dye-Sensitized Solar Cells</title>
+            <link>https://doi.org/10.3390/molecules31193422</link>
+            <pubDate>2026-09-26</pubDate>
+            <description>Pierre C. Souza-Junior; Mateus Rodrigues Barbosa; Guilherme Duarte Ramos Matos; Flávio O. Sanches-Neto; João B. L. Martins; Daniel F. S. Machado. Molecules, v. 31, n. 19, 2026.</description>
+        </item>
+        <item>
             <title>Non-fluorescent benzothiadiazole probe with protein-triggered turn-on fluorescence for imaging SARS-CoV-2 spike protein in biological systems</title>
             <link>https://doi.org/10.1016/j.bioorg.2026.110557</link>
             <pubDate>2026-09-22</pubDate>
@@ -45,6 +63,12 @@
             <link>https://doi.org/10.1002/pc.71575</link>
             <pubDate>2026-09-02</pubDate>
             <description>Vilson Dalla Libera; Alysson Martins Almeida Silva; Linconl Araujo Teixeira; Marielle da Silva Macedo; Sandra M. Luz. Polymer Composites, 2026.</description>
+        </item>
+        <item>
+            <title>Interfacial interactions governing hierarchical assembly and structural aging in synthetic smectite-essential oil dispersions</title>
+            <link>https://doi.org/10.1016/j.surfin.2026.110826</link>
+            <pubDate>2026-09-01</pubDate>
+            <description>Caio Matheus Ferreira; Ádria Maximino; Alex Fabiano Cortez Campos; João P. A. Souza; Geraldo J. da Silva. Surfaces and Interfaces, 2026.</description>
         </item>
         <item>
             <title>Skin Histology of Pithecopus spp. and Modulation of Glutathione Status by the Antioxidant Tryptophyllin PaT-2</title>
@@ -99,30 +123,6 @@
             <link>https://doi.org/10.1007/s12155-026-11031-1</link>
             <pubDate>2026-07-15</pubDate>
             <description>Igor F. Mendonça; Gabriel S. do Vale; Tatiane Luciano Balliano; Edgar A. Silveira; Rômulo C. Dutra; Jefferson S. de Oliveira; Paulo A. Z. Suarez; Grace Ferreira Ghesti. BioEnergy Research, v. 19, n. 1, 2026.</description>
-        </item>
-        <item>
-            <title>Diagnosis of Congenital Disorders of Glycosylation Type II Subtypes Through Comprehensive N-Glycan Profiling by Mass Spectrometry</title>
-            <link>https://doi.org/10.3390/ijms27146309</link>
-            <pubDate>2026-07-15</pubDate>
-            <description>Alan Ribeiro Mól; Nilza do Carmo Fontes; Savana C.L. Santos; Cynthia Costa e Silva; Gérson Carvalho; Bruno J. C. B. Lima; Walquiria Domingues de Mello; Daniel R. de Carvalho; Éder Alves Barbosa; Dirk J. Lefeber; Juliana F. Mazzeu; Jaime Moritz Brum; Guilherme Dotto Brand. International Journal of Molecular Sciences, v. 27, n. 14, 2026.</description>
-        </item>
-        <item>
-            <title>Pd/Activated Biocarbon Applied to a Glycerol Acid-Alkaline Electroreformer for Simultaneous H2 and Electricity Production</title>
-            <link>https://doi.org/10.3390/catal16070623</link>
-            <pubDate>2026-07-09</pubDate>
-            <description>Fernando Miguel de Amorim Lino; Rossano Gambetta; S. P. Favaro; Jose Joaquin Linares. Catalysts, v. 16, n. 7, 2026.</description>
-        </item>
-        <item>
-            <title>Development and evaluation of two low-cost strategies for chemiluminescence detection in paper-based devices</title>
-            <link>https://doi.org/10.1016/j.talanta.2026.130263</link>
-            <pubDate>2026-07-06</pubDate>
-            <description>Eloíza Cristiny Azevedo dos Santos; Guilherme Bastos GONÇALVES; Alexandre Fonseca. Talanta, v. 311, 2026.</description>
-        </item>
-        <item>
-            <title>Enhanced pozzolanic activity of microcrystalline cellulose via silane modification for cementitious composites</title>
-            <link>https://doi.org/10.1007/s10570-026-07169-y</link>
-            <pubDate>2026-07-01</pubDate>
-            <description>José Ricardo Guimarães Corrêa; Valdirene Maria Silva Capuzzo; Gabriel Ferreira da Silva Brito; Fabricio Machado. Cellulose, v. 33, n. 11, 2026.</description>
         </item>
     </channel>
 </rss>
