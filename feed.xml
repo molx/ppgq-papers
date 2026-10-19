@@ -5,16 +5,22 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Asymmetric ZrSSe Janus monolayers: A first-principles insight into electronic structure and solar cell efficiency</title>
+            <link>https://doi.org/10.1016/j.cocom.2026.e01478</link>
+            <pubDate>2026-10-10</pubDate>
+            <description>Muhammad Irfan; Bill D. Aparicio-Huacarpuma; Alysson M.A. Silva; L.A. Ribeiro; Alexandre Cavalheiro Dias. Computational Condensed Matter, v. 49, 2026.</description>
+        </item>
+        <item>
+            <title>Surfactant-free microwave-assisted hydrothermal synthesis of highly crystalline CeO2 nanoparticles</title>
+            <link>https://doi.org/10.1016/j.micrna.2026.208963</link>
+            <pubDate>2026-10-09</pubDate>
+            <description>Wellington Marcos da Silva; Mauro Francisco Pinheiro da Silva; Rodrigo Nunes de Souza; Mariana Lumi Ichihara Sado; Saulo Lucas Pereira da Silva; Alysson Martins Almeida Silva; Alisson Mendes Rodrigues; Hélio Ribeiro; Lourdes  Cristel Mejia Caceres; Alexandre Silva Santos; S.W. da Silva; Nelcy Della Santina Mohallem; José Antonio Huamaní Coaquira. Micro and Nanostructures, v. 221, 2026.</description>
+        </item>
+        <item>
             <title>Rare earth elements and yttrium in water sources of the Distrito Federal, Central Brazil: baseline data for water quality monitoring</title>
             <link>https://doi.org/10.18265/2447-9187a2026id9446</link>
             <pubDate>2026-10-06</pubDate>
             <description>Poliana Dutra Maia; Artur Moraes Amorim; João Lucas Lima Oliveira; Luciano Soares da Cunha; Fernando F. Sodré. Revista Principia - Divulgação Científica e Tecnológica do IFPB, v. 63, 2026.</description>
-        </item>
-        <item>
-            <title>Surfactant-Free Microwave-Assisted Hydrothermal Synthesis of Highly Crystalline CeO2 Nanoparticles</title>
-            <link>https://doi.org/10.1016/j.micrna.2026.208963</link>
-            <pubDate>2026-10-01</pubDate>
-            <description>Wellington Marcos da Silva; Mauro Francisco Pinheiro da Silva; Rodrigo Nunes de Souza; Mariana Lumi Ichihara Sado; Saulo Lucas Pereira da Silva; Alysson Martins Almeida Silva; Alisson Mendes Rodrigues; Hélio Ribeiro; Lourdes  Cristel Mejia Caceres; Alexandre Silva Santos; S.W. da Silva; Nelcy Della Santina Mohallem; José Antonio Huamaní Coaquira. Micro and Nanostructures, 2026.</description>
         </item>
         <item>
             <title>Proteção Intelectual de Invenções Estudantis: análise dos desafios e oportunidades no contexto educacional brasileiro</title>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.1021/acsomega.6c00840</link>
             <pubDate>2026-07-17</pubDate>
             <description>Lorrayne Ohana Coelho; Marcos Vinícius de Sousa Pereira; Tatianny de Araújo Andrade; Kátia Mara de Oliveira; Jemmyson Romário de Jesus. ACS Omega, v. 11, n. 30, 2026.</description>
-        </item>
-        <item>
-            <title>Impact of the surface chemical composition on the ORR activity of metal-free activated carbon-based electrocatalysts and their performance in DMFCs</title>
-            <link>https://doi.org/10.1016/j.solidstatesciences.2026.108435</link>
-            <pubDate>2026-07-16</pubDate>
-            <description>Silvia da C. Oliveira; Jose Joaquin Linares; Rômulo C. Dutra; Paulo A. Z. Suarez; Carla M. C. da Costa; Evelyn C. G. Alexandre; Myller de Sousa Tonhá; Daniel Ballesteros‐Plata; Enrique Rodrı́guez-Castellón; Marcos Juliano Prauchner. Solid State Sciences, v. 180, 2026.</description>
         </item>
     </channel>
 </rss>
