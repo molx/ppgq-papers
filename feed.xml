@@ -5,6 +5,12 @@
         <link>https://github.com</link>
         <description>Feed de artigos cientificos</description>
         <item>
+            <title>Regioselective Diversification of Aminopyrazoles via Ir‐Catalyzed C─H Borylation</title>
+            <link>https://doi.org/10.1002/adsc.70689</link>
+            <pubDate>2026-10-19</pubDate>
+            <description>Jay Samuel Wright; Felipe M. Nogueira; Andrew C. Hones; Mingyan Ding; Mark A. Fox; Wender Alves da Silva; Angelo H. de Lira Machado; Alpay Dermenci; David C. Blakemore; Patrick G. Steel. Advanced Synthesis &amp; Catalysis, v. 368, n. 21, 2026.</description>
+        </item>
+        <item>
             <title>Asymmetric ZrSSe Janus monolayers: A first-principles insight into electronic structure and solar cell efficiency</title>
             <link>https://doi.org/10.1016/j.cocom.2026.e01478</link>
             <pubDate>2026-10-10</pubDate>
@@ -117,12 +123,6 @@
             <link>https://doi.org/10.1002/9783527853793.ch13</link>
             <pubDate>2026-07-22</pubDate>
             <description>Brenno A.D. Neto; Giovanni W. Amarante; Alexandre A.M. Lapis. 2026.</description>
-        </item>
-        <item>
-            <title>Zinc-Based bioMOF Nanocarrier for Curcumin Release Enables Permeation through Biomimetic Biological Membranes and Controlled Release</title>
-            <link>https://doi.org/10.1021/acsomega.6c00840</link>
-            <pubDate>2026-07-17</pubDate>
-            <description>Lorrayne Ohana Coelho; Marcos Vinícius de Sousa Pereira; Tatianny de Araújo Andrade; Kátia Mara de Oliveira; Jemmyson Romário de Jesus. ACS Omega, v. 11, n. 30, 2026.</description>
         </item>
     </channel>
 </rss>
